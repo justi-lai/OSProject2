@@ -21,3 +21,5 @@ Teller:
 To run this project, navigate to this file and use javac Bank.java Customer.java Manager.java Safe.java Teller.java Teller.java,  and then run the project by using java Bank
 
 This project should work using Java 8 and further as I tested the code in a Java 8 environment.
+
+If this does not work, try taking from the GitHub itself: https://github.com/justi-lai/OSProject2
